@@ -2,8 +2,6 @@
 
 A 2D top-down game written in C with MiniLibX, developed as part of the 42 School curriculum.
 
-![So_long preview](https://github.com/user-attachments/assets/4db9f94b-9c80-42d1-8718-a67358edf401)
-
 ## Project Overview
 
 So_long is a graphical programming project that introduces the fundamentals of 2D game development in C. The application loads a tile-based map from a `.ber` file, validates its structure, renders it through MiniLibX, and allows the player to explore the level, collect every item, and reach the exit.
